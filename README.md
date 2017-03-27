@@ -1,4 +1,4 @@
-# tugas-proglan-1
+# tugas-proglan-2
 ini adalah repositari untuk tugas praktikum program lanjut yang berisikan 5 Anggota di Antaranya :
 
 1.
