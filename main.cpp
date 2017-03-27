@@ -102,6 +102,17 @@ class perpustakaan : public buku {
 	}
 };
 
+		void tampil(){
+			cout << "Kategori\t:" << this->kategori << endl;
+			cout << "Penulis\t\t:" << this->penulis << endl;
+			cout << "Tahun\t\t:" << this->tahun << endl;
+			cout << "Judul\t\t:" << this->judul << endl;
+			cout << "Kota\t\t:" << this->kota << endl;
+			cout << "Penerbit\t:" << this->penerbit << endl;
+			cout << "Halaman\t\t:" << this->hal << endl;
+			cout << "Deskripsi\t:" << this->deskripsi << endl;
+		}
+
 int main() {
 	cout << "Testing" << endl;
 return 0;
